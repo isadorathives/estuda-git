@@ -3,3 +3,7 @@ este é um arquivo serio
 não vamos usa-lo para brincadeiras
 
 teste...
+
+outro teste...
+
+mais outro teste
